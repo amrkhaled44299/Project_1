@@ -948,7 +948,6 @@ a{
     width: 100%;
     height: 270px;
     background-color: rgba(255, 255, 255, 0.5);
-    background-color: rgb(0,128,0,0.2);
     text-align: center;
     margin: auto;
      }
@@ -957,7 +956,7 @@ a{
     border-radius: 40%;
     color: black;
     opacity: 0.5;
-    background-color: rgba(255, 255, 255, 0.5);
+    
   }
   #footer-icons:hover{
     opacity: 1;
