@@ -235,6 +235,7 @@ body{
  }
  .textarea-header{
     border-radius: 20px;
+     border:none;
     text-align: center;
     margin-right: 600px;
     background-image:url(../images/images.png) ;
