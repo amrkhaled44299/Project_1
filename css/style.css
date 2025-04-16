@@ -243,6 +243,8 @@ body{
     background-repeat: no-repeat;
     position: relative;
     top: 10px;
+     overflow: hidden;   
+  outline: none;
     
     
    
